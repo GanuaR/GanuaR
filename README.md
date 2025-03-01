@@ -3,15 +3,6 @@
 
 Welcome to my GitHub space! Here, I combine my passion for genetic improvement and computational biology to explore the fascinating world of life sciences.
 
-🔬 What I’m focused on:
-
-Bridging traditional breeding methods with modern bioinformatics tools.
-
-Analyzing genomic data to uncover patterns in heredity and diversity.
-
-Learning (and applying!) new techniques in data science for biological research.
-
-💡 Always curious about open-source bioinformatics projects, collaborative research, and mentorship opportunities. Feel free to reach out if you’d like to discuss ideas, share knowledge, or collaborate!
 <!--
 **GanuaR/GanuaR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
