@@ -1,8 +1,3 @@
-## 👋 Hi there!
-🌱 Breeding Genetics Student | Life Sciences Enthusiast | Bioinformatics Explorer
-
-Welcome to my GitHub space! Here, I combine my passion for genetic improvement and computational biology to explore the fascinating world of life sciences.
-
 <!--
 **GanuaR/GanuaR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
